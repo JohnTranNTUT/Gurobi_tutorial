@@ -36,7 +36,7 @@ Suppose we need to solve an optimization model below:
 $$\begin{array}{rll}
  \text{max} & x+y+2z \\
  \text{s.t.} & x + 2y + 3z \le 4 \\
- & x + y \ge 1 \\\[10pt\]
+ & x + y \ge 1 \\
  & x,y,z \in \lbrace 0,1 \rbrace
 \end{array}
 $$
