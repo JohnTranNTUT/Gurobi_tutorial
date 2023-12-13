@@ -17,8 +17,8 @@ feel free to join.
 
 Because writing code requires lots of practices and getting familiar
 with new terminologies, if possible, please watch [this
-video](https://vimeo.com/830685647/c7f9971fda). The Jupyter notebook can
-be run online at [this
+video](https://vimeo.com/830685647/c7f9971fda) in advance. The Jupyter
+notebook can be run online at [this
 link](https://colab.research.google.com/drive/1ZmwcufNbdPBFLo6VZLz6KEioiG128V6I?usp=sharing),
 or you can download
 [here](https://github.com/JohnTranNTUT/Gurobi_tutorial/blob/89c7fc312ac305bbfb178681f156873be610c285/intro_to_gurobipy.ipynb).
@@ -46,8 +46,8 @@ and GUROBI are shown below:
 
 ![LINGO](./LINGO1.png)
 
-![GUROBI witten in Python](./GUROBI.png) The Jupyter notebook can be
-found at [this
+![GUROBI witten in Python](./GUROBI.png) The Jupyter notebook in the
+above image can be found at [this
 link](https://colab.research.google.com/drive/1zJ5P9GKLv2wfnBcy5eDmdUX97q8vh9QF?usp=sharing).
 
 At first glance, GUROBI code has more things to type and LINGO code is
