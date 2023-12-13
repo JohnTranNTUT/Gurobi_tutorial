@@ -1,6 +1,6 @@
 ---
 title: Using Gurobiby
-format: htmd
+format: md
 ---
 This tutorial has 
 
