@@ -23,7 +23,7 @@ link](https://colab.research.google.com/drive/1ZmwcufNbdPBFLo6VZLz6KEioiG128V6I?
 or you can download
 [here](https://github.com/JohnTranNTUT/Gurobi_tutorial/blob/89c7fc312ac305bbfb178681f156873be610c285/intro_to_gurobipy.ipynb).
 
-# LINGO vs GUROBI
+# LINGO
 
 Because GUROBI is a solver and written in many language (C, C++, Python,
 Java, Matlab, R, .NET), we just focus on GUROBI written in Python or
